@@ -2,7 +2,9 @@
 
 Un jeu amusant et facile pour apprendre à utiliser les sélecteur CSS. Cette traduction a pour objectif de pouvoir aider mes élèves qui ont parfois des difficultés avec l'original.
 
-Pour jouer, rendez-vous sur [flukeout.github.io](http://flukeout.github.io/)
+Pour jouer, rendez-vous sur [css-resto](https://css-resto.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0eb955ed-61c5-464e-87b1-29ca01e58707/deploy-status?branch=master)](https://app.netlify.com/sites/css-resto/deploys)
 
 ## Change Log
 
@@ -10,7 +12,7 @@ Pour jouer, rendez-vous sur [flukeout.github.io](http://flukeout.github.io/)
 
 ## Filing issues and PRs
 
-Please file issues and PRs in the [css-resto repo](https://github.com/flukeout/css-diner/).
+Please file issues and PRs in the [css-resto repo](https://github.com/AnaMug/css-resto/).
 
 ## **Potential Features & Improvements**
 
